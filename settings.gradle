@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "iCalories"
 include ':app'
+include ':core'
+include ':onboarding'
